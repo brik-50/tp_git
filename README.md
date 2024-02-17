@@ -1,5 +1,5 @@
 # tp_git
-## Partie 0 : Configuration de Git et du Gitlab de ViaRézo
+## Partie 0 : Configuration de Git
 
 Avant de pouvoir utiliser Git, il y a quelques configuration à faire.
 
@@ -41,3 +41,25 @@ Tu peux vérifier que les lignes du fichier ont bien disparu du repo distant via
 
 Ta deuxième mission est de créer un fichier `solutions.md` à la racine du repo (à coté du `README.md`) et d'y ajouter la démarche que tu as suivie pour réussir la mission précédente.
 
+### Mission 3 : Supprimer un fichier (facultatif)
+
+Dernière mission pour la route, il y a dans le repo un fichier nommé `fichier_inutile`. Sauras-tu le supprimer du repo Gitlab ?
+
+Tu peux vérifier que le fichier a bien disparu du repo distant via l'interface web de Github.
+
+Les quelques commandes que tu viens d'utiliser (`git status`, `git add`, `git commit`, `git pull`, `git push`) sont les commandes que tu utiliseras 95% du temps.
+
+## Partie 3 : Collaboration, branches et merge requests
+
+Pour pouvoir travailler séparément sur des features différentes on utilise des branches, cette fonctionnalité est particulièrement pratique pour faire avancer en même temps plusieurs versions du même code qui implémentent des fonctionnalités différentes.
+
+### Mission 1 : Créer une branche
+
+* Crée une branche et place toi sur cette nouvelle branche
+* Vérifie que cette branche est bien sélectionnée
+* Effectuer des modifications sur la nouvelle branche
+* Validation des changements
+* Retour à la branche principale 
+* Fusion des branches / Résolution des conflits (si nécessaire) 
+* Vérification de la fusion
+* Nettoyage
