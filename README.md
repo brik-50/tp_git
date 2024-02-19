@@ -1,6 +1,5 @@
 # tp_git
 ## Partie 0 : Configuration de Git
-## Partie 0 : Configuration de Git
 
 Avant de pouvoir utiliser Git, il y a quelques configuration à faire.
 
